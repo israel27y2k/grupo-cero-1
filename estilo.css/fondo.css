@@ -1,0 +1,11 @@
+body{
+    /* The image used */
+    background-image: url(/imagenes/fondo2.webp
+    ) ;
+    height: 500px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+  }
